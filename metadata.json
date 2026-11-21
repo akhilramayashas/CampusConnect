@@ -1,0 +1,8 @@
+{
+  "name": "Remix CampusConnect",
+  "description": "Interactive smart campus map, turn-by-turn wayfinding, room reservation, live telemetry, and AI concierge for Neo-Seoul Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
